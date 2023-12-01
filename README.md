@@ -8,3 +8,5 @@ This is a Data analysis and visualization project of a marketing company named M
 The dataset contains marketing campaign data of 2,240 customers of Maven Marketing, including customer profiles, product preferences, campaign successes/failures, and channel performance.
 
 ![Dataset](https://github.com/newdydx/Maven-Markerting-Project/blob/main/Datasets.png)
+
+Data Dictionary: The dataset contains 28 columns and 2240 rows.
