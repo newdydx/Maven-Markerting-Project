@@ -34,3 +34,11 @@ e. Which channels are underperforming?
 • Pivot table
 
 • Data Visualization and Dashboard
+
+## DATA CLEANING
+
+Several steps were taken to clean the data including:
+1. Checking for duplicates
+2. Replacing null values to prevent data loss
+3. Changing necessary data formats
+4. Correcting null values
