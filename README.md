@@ -15,13 +15,13 @@ Data Dictionary: The dataset contains 28 columns and 2240 rows.
 
 The following questions were presented to find insights from the campaign. My goal is to find answers to these questions, find insights, and provide recommendations to the team.
 
-a. What factors are significantly related to the number of web purchases?
+1. What factors are significantly related to the number of web purchases?
 
-b. Which marketing campaign was the most successful?
+2. Which marketing campaign was the most successful?
 
-c. Which products are performing best?
+3. Which products are performing best?
 
-d. Which channels are underperforming?
+4. Which channels are underperforming?
 
 # Skills
 
@@ -46,3 +46,8 @@ Several steps were taken to clean the data including:
 2. The marital_status column with 8 different values was transformed into Marital status column to have just two values by using the function VLOOKUP(E2,G$2246:H$2253,2) for better analysis
 3. The null Values in the Income column was replaced by the average of all the income with the formula IF(G2241="",AVERAGE(G2241:G4480),G2241)
 4. The customer income field was grouped into 3 level income with the formula IF(H2<50000,"Low Earner",IF(H2<101000,"Middle Earner","High Earner"))
+
+# Data Analysis
+1. Education Level- Customers who are graduates purchased more items through the web than every other customer. They make up 51.81% of customers who purchased through the web.
+![Education visuals]()
+
