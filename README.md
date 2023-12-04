@@ -55,7 +55,11 @@ a. Education Level- Customers who are graduates purchased more items through the
    
 ![Education visuals](https://github.com/newdydx/Maven-Markerting-Project/blob/main/graduatepurchases.png)
 
-b. Income- Customerswho are middle earners with an income ranging from $51000-$100000 purchased more items through the web. Middle earners make up 68.35% of the customers who purchased through the web.
+b. Income- Customers who are middle earners with an income ranging from $51000-$100000 purchased more items through the web. Middle earners make up 68.35% of the customers who purchased through the web.
 
-![Income]()
+![Income](https://github.com/newdydx/Maven-Markerting-Project/blob/main/INCOME.png)
+
+c. Country- Spain and Saudi Arabia were the highest country to purchase items through the web respectively.
+
+![Country]()
 
