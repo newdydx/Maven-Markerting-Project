@@ -61,5 +61,11 @@ b. Income- Customers who are middle earners with an income ranging from $51000-$
 
 c. Country- Spain and Saudi Arabia were the highest country to purchase items through the web respectively.
 
-![Country]()
+![Country](https://github.com/newdydx/Maven-Markerting-Project/blob/main/COUNTRY.png)
+
+> **2.  Which marketing campaign was the most successful?**
+
+The 4th campaigh was the most successful when compared to the other campaigns with a 7.46% conversion rate.
+
+![Campaign]()
 
