@@ -49,9 +49,13 @@ Several steps were taken to clean the data including:
 
 # Data Analysis
 
-**1. What factors are significantly related to the number of web purchases?**
+> **1. What factors are significantly related to the number of web purchases?**
 
 a. Education Level- Customers who are graduates purchased more items through the web than every other customer. They make up 51.81% of customers who purchased through the web.
    
 ![Education visuals](https://github.com/newdydx/Maven-Markerting-Project/blob/main/graduatepurchases.png)
+
+b. Income- Customerswho are middle earners with an income ranging from $51000-$100000 purchased more items through the web. Middle earners make up 68.35% of the customers who purchased through the web.
+
+![Income]()
 
