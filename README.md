@@ -41,7 +41,7 @@ Several steps were taken to clean the data including:
 3. Changing necessary data formats
 4. Correcting null values
 
-# FORMULAS AND FUNCTIONS
+# Formulas and Functions
 1. I derived the age column from the year_birth column by using the formula (2023 - B2) and for the other column respectively
 2. The marital_status column with 8 different values was transformed into Marital status column to have just two values by using the function VLOOKUP(E2,G$2246:H$2253,2) for better analysis
 3. The null Values in the Income column was replaced by the average of all the income with the formula IF(G2241="",AVERAGE(G2241:G4480),G2241)
