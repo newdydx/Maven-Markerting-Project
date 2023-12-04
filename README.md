@@ -49,5 +49,5 @@ Several steps were taken to clean the data including:
 
 # Data Analysis
 1. Education Level- Customers who are graduates purchased more items through the web than every other customer. They make up 51.81% of customers who purchased through the web.
-![Education visuals]()
+![Education visuals](https://github.com/newdydx/Maven-Markerting-Project/blob/main/graduatepurchases.png)
 
