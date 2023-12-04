@@ -19,11 +19,9 @@ a. What factors are significantly related to the number of web purchases?
 
 b. Which marketing campaign was the most successful?
 
-c. What does the average customer look like?
+c. Which products are performing best?
 
-d. Which products are performing best?
-
-e. Which channels are underperforming?
+d. Which channels are underperforming?
 
 # Skills
 
