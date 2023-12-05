@@ -77,4 +77,8 @@ Wine and Meat are the top 2 best performing products with 50.17% and 27.56% of t
 
 > **4. Which channels are underperforming?**
 
+The catalog channel wasthe least channel used in purchasing products and most of the products were purchased through the store.
+
+![channels](https://github.com/newdydx/Maven-Markerting-Project/blob/main/CHANNELS.png)
+
 
