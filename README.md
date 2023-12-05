@@ -71,5 +71,10 @@ The 4th campaigh was the most successful when compared to the other campaigns wi
 
 > **3. Which products are performing best?**
 
-Wine and Meat are the top 2 best performing products
+Wine and Meat are the top 2 best performing products with 50.17% and 27.56% of the total revenue respectively.
+
+![Products](https://github.com/newdydx/Maven-Markerting-Project/blob/main/AMOUNT.png)
+
+> **4. Which channels are underperforming?**
+
 
