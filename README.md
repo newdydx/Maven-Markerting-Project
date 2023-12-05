@@ -81,4 +81,6 @@ The catalog channel wasthe least channel used in purchasing products and most of
 
 ![channels](https://github.com/newdydx/Maven-Markerting-Project/blob/main/CHANNELS.png)
 
+## Dashboard
+
 
