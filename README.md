@@ -69,3 +69,7 @@ The 4th campaigh was the most successful when compared to the other campaigns wi
 
 ![Campaign](https://github.com/newdydx/Maven-Markerting-Project/blob/main/campaign.png)
 
+> **3. Which products are performing best?**
+
+Wine and Meat are the top 2 best performing products
+
