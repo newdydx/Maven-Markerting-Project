@@ -81,6 +81,14 @@ The catalog channel wasthe least channel used in purchasing products and most of
 
 ![channels](https://github.com/newdydx/Maven-Markerting-Project/blob/main/CHANNELS.png)
 
-## Dashboard
+## Insights
+
+1. Graduates from Spain and Saudi Arabia with a middle level income made more purchases through the web.
+2. The 4th, 5th and 3rd campaigns were the most successful.
+3. Wine and Meat are the top selling products.
+4. The best performing channel is through the store.
+
+## Recommendations
+1. 
 
 
