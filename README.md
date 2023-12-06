@@ -89,6 +89,16 @@ The catalog channel wasthe least channel used in purchasing products and most of
 4. The best performing channel is through the store.
 
 ## Recommendations
-1. 
+1. The products sold through the web should be more targeted towards gradutes living in spain and saudi arabia.
+2. The 4th, 5th and the 3rd campaign should be more focused on as they had more conversions.
+3. Wine and Meat should be more stocked in the store as they are the top selling products.
+
+## Conclusion
+
+This project was not only enjoyable but also incredibly exciting. The opportunity to work with a dataset mirroring a real-life business scenario and provide insights through analysis conducted in Excel is truly gratifying.
+
+Take a peek at the Excel dashboard:
+
+![Dashboard](
 
 
