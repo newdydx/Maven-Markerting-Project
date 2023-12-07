@@ -99,6 +99,8 @@ This project was not only enjoyable but also incredibly exciting. The opportunit
 
 Take a peek at the Excel dashboard:
 
-![Dashboard](
+![Dashboard](https://github.com/newdydx/Maven-Markerting-Project/blob/main/DASH.png)
+
+Thank you for reading.
 
 
